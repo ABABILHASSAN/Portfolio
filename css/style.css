@@ -1123,7 +1123,7 @@ section:nth-child(odd){
   /* Left column (menu) Starts From Here */
 
   .portfolio .container .portfolio-container .row .left {
-    width: 30%;
+    width: 32%;
     height: 800px;
     overflow: auto;
   }
